@@ -14,7 +14,7 @@
     /* background-image: url('Kenny\ \(2\).jpeg'); */
     background-repeat: no-repeat;
     background-position: 150px;
-    
+        
   }
   
   h1, h2, h3 {
@@ -56,11 +56,11 @@
    
   }
   .img {
-    border-radius: 30px;
+    border-radius: 100%;
     width: 30em;
     height: 25em;
     /* align-items: center; */
-    /* padding-left: 70px; */
+    /* padding-left: 100px; */
   }
   .marquee {
     animation: marquee 35s linear;
